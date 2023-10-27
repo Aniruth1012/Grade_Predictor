@@ -1,0 +1,64 @@
+Course Name,Grading Strength,Class Average,Standard Deviation,S,A,B,C,D,E
+Database Systems,66,61.69,10.22,80,67,57,51,46,41
+Operating Systems,70,64.87,11.5,83,71,59,53,48,42
+Compiler Design,67,65.07,15.92,86,73,57,49,41,33
+Computer Networks,68,64.29,8.39,80,68,60,56,52,48
+Information Security Analysis and Audit,65,72.7,8.25,85,77,69,64,60,50
+Design and Analysis of Algorithms,68,64.19,14.97,86,72,57,49,42,34
+Computer Architecture and Organization,69,70.5,8.59,85,75,66,62,58,50
+Microprocessors and Microcontrollers,64,72.82,11.82,90,79,67,61,55,49
+Macro Economics,67,63.79,7.51,80,68,60,56,53,49
+Probability and Statistics,35,60.25,14.59,82,68,53,46,38,31
+Discrete Mathematics and Graph Theory,68,73.64,15.11,94,81,66,59,51,43
+Data Structures and Algorithms,64,62.7,15.47,84,70,55,47,39,32
+Digital Systems Design,59,75.87,14.84,93,83,68,61,54,46
+Complex Variables and Linear Algrebra,58,66.39,11.69,85,72,61,55,49,43
+Structured and Object-Oriented Programming,106,63.63,15.75,86,72,56,48,40,32
+Basic Electronics,64,65.59,11.81,82,72,60,65,48,42
+Technical English Communication,62,84,2.42,87,85,83,82,80,50
+Differential Equations and Transforms,65,61.4,14.72,85,69,54,47,39,32
+Engineering Physics,70,65.97,14.6,87,73,59,51,44,37
+Engineering Chemistry,98,72.2,12.23,88,78,66,60,54,48
+Basic Electrical Engineering,98,79.62,10.8,93,85,74,69,63,50
+Calculas,97,81.56,10.84,97,87,76,71,65,50
+Engineering Chemistry,96,78.5,11.5,94,84,73,67,61,50
+Basic Electrical Engineering,96,73.63,16.04,94,82,66,58,50,42
+Calculas,96,71.56,13.21,88,78,65,58,52,45
+Structured and Object-Oriented Programming,107,48.99,12.02,80,55,43,37,31,25
+Basic Electronics,79,79,10.5,80,68,57,52,47,42
+Calculus,79,79,12.61,91,81,68,62,55,49
+Basic Electronics,64,50.75,15.02,80,58,43,36,28,21
+Engineering Physics,79,79,11.06,91,83,72,66,61,50
+Engineering Chemistry,65,62,12.61,85,75,63,56,50,44
+Technical English Communication,68,68,9.74,80,73,63,58,53,49
+Structured and Object-Oriented Programming,65,65,9.46,80,63,53,49,44,39
+Basic Electrical Engineering,53,53,15.02,82,63,48,40,33,25
+Technical English Communication,70,70,4.68,93,89,84,82,79,50
+Differential Equations and Transforms,66,47.56,15.33,80,55,40,32,25,17
+Digital Logic and Microprocessors,68,67,15,90,74,59,51,44,36
+Engineering Physics,70,68.08,13.68,90,75,61,54,48,41
+Differential Equations and Transforms,70,69,17.43,89,69,52,43,34,26
+Data Structures and Algorithms,69,66.31,12.7,83,73,60,54,47,41
+Principles of Sociology,69,68,8.69,80,69,60,56,51,47
+Data Structures and Algorithms,64,64,12.85,85,72,60,53,47,40
+Digital Systems Design,66,69.45,9.45,83,74,65,60,55,50
+Principles of Communication Systems,65,64,12.8,87,77,65,58,52,45
+Software Engineering,67,66,11.95,82,72,60,54,48,42
+Complex Variables and Linear Algebra,67,58.62,13.9,83,66,52,45,38,31
+Complex Variables and Linear Algebra,70,69,13.24,92,81,67,61,54,48
+Computer Architecture and Organization,67,65,10.41,86,78,68,62,57,50
+Discrete Mathematics and Graph Theory,69,65.56,13.06,82,72,59,53,46,39
+Database Systems,57,56,10.26,80,71,61,56,51,45
+Probability and Statistics,65,67.61,12.98,90,74,61,55,48,42
+Web Technologies,37,37,11.95,80,63,51,45,39,33
+Database Systems,70,68.22,8.25,81,72,64,60,56,50
+Probability and Statistics,70,67,12.43,89,75,63,56,50,44
+Compiler Design,70,64.22,9.65,82,69,59,55,50,45
+Discrete Mathematics and Graph Theory,70,68,13.11,86,73,60,53,47,40
+Information Security Analysis and Audit,70,67,5.64,90,85,79,76,73,50
+Computer Networks,71,61.53,10.31,80,67,56,51,46,41
+Operating Systems,70,70,9.75,84,77,67,62,57,50
+Information Security Analysis and Audit,70,80.4,7.07,90,84,77,73,70,50
+Computer Networks,69,66,8.35,80,71,62,58,54,50
+Theory of Computation,67,66,11.72,87,78,66,60,54,48
+Embedded Systems and IoT,72,72,7.26,84,77,70,66,63,50
