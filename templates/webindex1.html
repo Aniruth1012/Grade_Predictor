@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8"
+          name="viewport"
+          content="width=device-width, initial-scale=1.0">
+         <center><h1 style="font-size: xx-large;" > Relative Grade Predictor </h1></center>
+         <title> Grades Predictor </title>
+         <link rel="stylesheet" href="style.css">
+    </head>
+    <body style="background-color:#ffe5e4;">
+        <h2><center>Find the Minimum Marks to secure your desired Grade </center></h2>
+        <div class="logo">
+        <img src="C:\Users\admin\Downloads\webpageone\static\Image\gradepic2.png" height="250px" width="225px" style="float:left;margin-right: 85%;margin-top: -9%;"></div>
+        <div class="fform">
+        <form action="{{ url_for('predict')}}" method="post">
+            <p style="margin-left: 30%;margin-top: -2.5%;font-size: xx-large;"> Enter the Grading Strength</p><input style="margin-left: 30%;font-size: large;"
+            size="30%" style="height:420px; width:200px;" type="text" placeholder="65" name="Enter the Grading Strength" required="required" />
+            <div class="img-b">
+            <img src="C:\Users\admin\Downloads\webpageone\static\Image\gradepic3.png" height="450px" width="425px" style="float:right;margin-right: 8%;margin-top: -8%;"></div>
+            <p style="margin-left: 30%;font-size: xx-large;"> Enter the class average </p><input size="30%" style="margin-left: 30%;font-size: large;" 
+            type="text" name="Enter the class average" placeholder="70" required="required" />
+            <p style="margin-left: 30%;font-size: xx-large;"> Enter the standard deviation </p><input size="30%" style="margin-left: 30%;font-size: large;" type="text"
+            name="Enter the standard deviation" placeholder="11" required="required" />
+            <p style="margin-left: 30%;font-size: xx-large;"><label for="grade">Select the Desired Grade </label></p>
+            <select style="margin-left: 30%;font-size: large;" id="grade" name="grade">
+              <option value="">Select your option</option>
+              <option value='4'>S</option>
+              <option value='5'>A</option>
+              <option value='6'>B</option>
+              <option value='7'>C</option>
+              <option value='8'>D</option>
+              <option value='9'>E</option>
+            </select>
+            <p><br><button style="margin-left: 30%;font-size: large;" type="submit" class="btn btn-primary btn-block btn-large"> Predict </button></p>
+        </form>
+        </div>
+        <br>
+        <br>
+        <h4  style="color:red;margin-left: 30%;font-size: x-large;">{{ prediction_text }}</h4>
+    </body>
+</html>
